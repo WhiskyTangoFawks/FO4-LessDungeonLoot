@@ -5,6 +5,6 @@
 !/plugin-source/
 !/plugin-source/**
 !/Less\ Dungeon\ Loot.manifest.json
-/LessDungeonChems_SWAP.ini
-/LessDungeonFood_SWAP.ini
-/LessDungeonMeds_SWAP.ini
+!/LessDungeonChems_SWAP.ini
+!/LessDungeonFood_SWAP.ini
+!/LessDungeonMeds_SWAP.ini
